@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/ugorji/go/codec"
+	"github.com/ugorji/go/fadd/codec"
 )
 
 const (
